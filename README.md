@@ -1,1 +1,9 @@
 # mlOps_work
+
+https://github.com/iam-veeramalla/mlops-zero-to-hero
+
+https://github.com/iam-veeramalla/Wine-Prediction-Model
+
+https://github.com/iam-veeramalla/hello-world-mlops
+
+https://community-charts.github.io/docs/charts/mlflow/basic-installation
