@@ -7,3 +7,5 @@ https://github.com/iam-veeramalla/Wine-Prediction-Model
 https://github.com/iam-veeramalla/hello-world-mlops
 
 https://community-charts.github.io/docs/charts/mlflow/basic-installation
+
+https://community-charts.github.io/docs/charts/mlflow/postgresql-backend-installation
