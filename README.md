@@ -11,3 +11,5 @@ https://community-charts.github.io/docs/charts/mlflow/basic-installation
 https://community-charts.github.io/docs/charts/mlflow/postgresql-backend-installation
 
 https://github.com/iam-veeramalla/Intent-classifier-model
+
+https://github.com/iam-veeramalla/Intent-classifier-model/tree/virtual-machines
