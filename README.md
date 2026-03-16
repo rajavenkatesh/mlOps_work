@@ -13,3 +13,4 @@ https://community-charts.github.io/docs/charts/mlflow/postgresql-backend-install
 https://github.com/iam-veeramalla/Intent-classifier-model
 
 https://github.com/iam-veeramalla/Intent-classifier-model/tree/virtual-machines
+https://github.com/iam-veeramalla/Intent-classifier-model/tree/kubernetes
