@@ -14,3 +14,5 @@ https://github.com/iam-veeramalla/Intent-classifier-model
 
 https://github.com/iam-veeramalla/Intent-classifier-model/tree/virtual-machines
 https://github.com/iam-veeramalla/Intent-classifier-model/tree/kubernetes
+
+https://github.com/iam-veeramalla/Intent-classifier-model/tree/kserve
